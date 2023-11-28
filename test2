@@ -1,0 +1,49 @@
+{
+  "bpjph":[
+    {
+      "id": "ID12345678",
+      "urutan": 1,
+      "nama_produk": "Daging Tenderloin RPH Pegirian"
+    },
+    {
+      "id": "ID12345678",
+      "urutan": 2,
+      "nama_produk": "Daging Sirloin RPH Pegirian"
+    },
+    {
+      "id": "ID12345678",
+      "urutan": 3,
+      "nama_produk": "Buntut RPH Pegirian"
+    },
+    {
+      "id": "ID12345679",
+      "urutan": 1,
+      "nama_produk": "Bakso Industri"
+    },
+    {
+      "id": "ID12345679",
+      "urutan": 2,
+      "nama_produk": "Nugget Pegirian"
+    },
+    {
+      "id": "ID12345679",
+      "urutan": 3,
+      "nama_produk": "Sosis"
+    },
+     {
+      "id": "ID12345680",
+      "urutan": 1,
+      "nama_produk": "Bakso Aci"
+    },
+    {
+      "id": "ID12345680",
+      "urutan": 2,
+      "nama_produk": "Seblak Instan"
+    },
+    {
+      "id": "ID12345680",
+      "urutan": 3,
+      "nama_produk": "Bakso Aci Urat"
+    }
+  ]
+}
